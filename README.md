@@ -1,6 +1,6 @@
 # habit-tracker
 
 ## Overview
-Habit tracking tool
+Habit tracking tool-
 
 
